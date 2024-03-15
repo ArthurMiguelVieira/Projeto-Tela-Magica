@@ -20,8 +20,11 @@ The etch-a-sketch is an interactive project created to train skills in JavaScrip
 How it works:
 
 The user can adjust the grid size using a slider.
+
 The "rainbow" mode allows the colors of the cells to change automatically, creating a rainbow effect.
+
 If the "rainbow" mode is activated and the user wants to choose a specific color, simply deactivate the "rainbow" mode to select the desired color.
+
 Objective:
 
 Practice fundamental JavaScript concepts, such as DOM manipulation and mouse events.

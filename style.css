@@ -13,8 +13,8 @@ body {
 }
 
 #container {
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 600px;
     border: 1px solid white;
     display: flex;
     flex-wrap: wrap;
@@ -31,25 +31,26 @@ body {
 }
 #rainbow{
     background-color: red;
-    width: 100px;
-    height: 25px;
+    width: 200px;
+    height: 50px;
     box-shadow: none;
     border: 0;
     border-radius: 25px;
     margin: 20px;
+    font-size: 25px;
 }
 
 #color{
-    width: 100px;
-    height: 25px;
+    width: 200px;
+    height: 50px;
     box-shadow: none;
     border: transparent;
-    border-radius: 15px;
+    border-radius: 25px;
 
 }   
 #color::-webkit-color-swatch {
     border: none;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 #color::-webkit-color-swatch-wrapper {
     padding: 0;

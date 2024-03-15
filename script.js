@@ -30,8 +30,8 @@ function createGrid(gridSize) {
     const colors = rainbowColors(gridSize * gridSize);
     for (let index = 0; index < gridSize * gridSize; index++) {
         let novoDiv = document.createElement("div");
-        novoDiv.style.width = `${400/gridSize}px`;
-        novoDiv.style.height = `${400/gridSize}px`;
+        novoDiv.style.width = `${600/gridSize}px`;
+        novoDiv.style.height = `${600/gridSize}px`;
         novoDiv.addEventListener("mouseover", function() {
             if (rainbowOn) {
                 const colorIndex = Math.floor((index / (gridSize * gridSize)) * colors.length);

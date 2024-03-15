@@ -13,3 +13,15 @@ Objetivo:
 
 -Praticar conceitos fundamentais de JavaScript, como manipulação do DOM e eventos do mouse.
 
+-English
+
+The etch-a-sketch is an interactive project created to train skills in JavaScript. The goal of this project is to provide a visually appealing experience, allowing the user to draw on a virtual screen. The main functionality is the creation of a grid of cells that can change color with mouse movement.
+
+How it works:
+
+The user can adjust the grid size using a slider.
+The "rainbow" mode allows the colors of the cells to change automatically, creating a rainbow effect.
+If the "rainbow" mode is activated and the user wants to choose a specific color, simply deactivate the "rainbow" mode to select the desired color.
+Objective:
+
+Practice fundamental JavaScript concepts, such as DOM manipulation and mouse events.
